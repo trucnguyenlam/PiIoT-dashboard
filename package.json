@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/v-i-s-h/PiIoT-dashboard.git"
+    "url": "git+https://github.com:trucnguyenlam/iot-dashboard.git"
   },
   "author": "v-i-s-h",
   "license": "None",
   "bugs": {
-    "url": "https://github.com/v-i-s-h/PiIoT-dashboard/issues"
+    "url": "https://github.com:trucnguyenlam/iot-dashboard.git/issues"
   },
   "dependencies": {
     "mime": "^1.3.4"
   },
-  "homepage": "https://github.com/v-i-s-h/PiIoT-dashboard#readme"
+  "homepage": "https://github.com:trucnguyenlam/iot-dashboard.git#readme"
 }

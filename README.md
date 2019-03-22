@@ -1,5 +1,4 @@
-# PiIoT Dashboard
-This repository contains files of hosting freeboard based dashboards as a part of my entry for element14's PiIoT Design Challenge - 2016.
+# IoT Dashboard
 Contents:
 * A simple nodejs sever for self hosting the dashboards
 * Freeboard for designing dashboards (modified)
