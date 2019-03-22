@@ -1,0 +1,3 @@
+[submodule "www/freeboard"]
+	path = www/freeboard
+	url = git@github.com:trucnguyenlam/freeboard.git
